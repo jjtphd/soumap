@@ -16,21 +16,21 @@ Once a SOUMAP is trained, the optional **MPEC** (Multiview Prototype Embedding &
 ## Installation
 
 ```bash
-pip install git+https://github.com/jt-ut/soumap.git
+pip install git+https://github.com/jjtphd/soumap.git
 ```
 
 Or clone and install in editable mode:
 
 ```bash
-git clone https://github.com/jt-ut/soumap.git
+git clone https://github.com/jjtphd/soumap.git
 cd soumap
 pip install -e .
 ```
 
 ## Dependencies
 
-- [vqlp](https://github.com/jt-ut/vqlp) — vector quantization and recall
-- [gtsom](https://github.com/jt-ut/gtsom) — general topology SOM learning
+- [vqlp](https://github.com/jjtphd/vqlp) — vector quantization and recall
+- [gtsom](https://github.com/jjtphd/gtsom) — general topology SOM learning
 - [umap-learn](https://github.com/lmcinnes/umap) — UMAP layout optimizer
 - numpy, scipy, scikit-learn, h5py, igraph, plotnine
 
@@ -39,7 +39,7 @@ pip install -e .
 
 Full documentation and a worked tutorial is available at:
 
-**[https://jt-ut.github.io/soumap](https://jt-ut.github.io/soumap)**
+**[https://jjtphd.github.io/soumap](https://jjtphd.github.io/soumap)**
 
 
 ## Quick start
@@ -216,5 +216,5 @@ If you use SOUMAP in your work, please cite:
 
 ## Related packages
 
-- [vqlp](https://github.com/jt-ut/vqlp) — vector quantization with arbitrary Lp metrics
-- [gtsom](https://github.com/jt-ut/gtsom) — general topology self-organizing map
+- [vqlp](https://github.com/jjtphd/vqlp) — vector quantization with arbitrary Lp metrics
+- [gtsom](https://github.com/jjtphd/gtsom) — general topology self-organizing map

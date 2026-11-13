@@ -1,7 +1,7 @@
 site_name: soumap
 site_description: Self-Organizing UMAP — hybrid SOM / UMAP learning of data prototypes and their low-dimensional embedding.
-repo_url: https://github.com/jt-ut/soumap
-repo_name: jt-ut/soumap
+repo_url: https://github.com/jjtphd/soumap
+repo_name: jjtphd/soumap
 
 theme:
   name: material
