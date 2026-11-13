@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
-  { name = "jt-ut" }
+  { name = "Joshua J. Taylor", email = "joshtaylor@utexas.edu" }
 ]
 keywords = ["self-organizing map", "umap", "dimensionality reduction", "vector quantization", "unsupervised learning"]
 classifiers = [
